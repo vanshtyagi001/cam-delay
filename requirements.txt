@@ -1,0 +1,5 @@
+pyvirtualcam>=0.15.0
+opencv-python>=4.8.0
+pystray>=0.19.5
+pillow>=10.0.0
+comtypes>=1.4.0
